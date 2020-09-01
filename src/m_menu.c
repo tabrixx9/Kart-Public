@@ -11453,7 +11453,7 @@ static void M_DrawDiscordRequests(void)
 	boolean removeRequest = false;
 
 	const char *wantText = "...would like to join!";
-	const char *controlText = "\x82" "ENTER" "\x80" " - Accept    " "\x82" "ESC" "\x80" " - Decline";
+	const char *controlText = "\x82" "Press ENTER" "\x80" " - Accept    " "\x82" "Press ESC" "\x80" " - Decline";
 
 	INT32 x = 100;
 	INT32 y = 133;
